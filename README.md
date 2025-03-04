@@ -1,1 +1,28 @@
-🚀 Personal Portfolio - Mahender Reddy | A responsive portfolio built with React.js, Tailwind CSS, React Router, and React Scroll. Features smooth scrolling, active link highlighting, and modern UI. Showcases expertise in resume writing, ATS optimization, and LinkedIn enhancement. 🌐 Live Demo: [Your Link]
+# Mahender Portfolio
+
+A web application built with React, TypeScript, and Vite.
+
+## Tech Stack
+
+- React + TypeScript
+- Vite
+- Tailwind CSS
+
+## Setup pnpm
+
+Enable corepack (included with Node.js):
+
+```bash
+corepack enable pnpm
+```
+
+## Quick Start
+
+```bash
+npm install    # Install dependencies
+npm dev        # Start development server
+npm build      # Build for production
+npm lint       # Run ESLint
+```
+
+
